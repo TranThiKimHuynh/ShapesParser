@@ -1,0 +1,8 @@
+7
+Triangle: a=4, b=2, c=5
+Circle: r=17
+Square: a=7
+Ellipse: ma=3, mi=4
+Rectangle: w=6, h=8
+Square: a=8
+Rhombus: d1=4, d2=10
