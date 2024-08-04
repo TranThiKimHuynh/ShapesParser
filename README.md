@@ -82,10 +82,9 @@ Square: a=7
 ## Authors
 
 - Link github : [@kimhuynh](https://github.com/TranThiKimHuynh)
-- Student infor : 21120607 - Trần Thị Kim Huỳnh
+
 
 
 ## Support
 
-For support, email kimhuynhstudy12@gmail.com or my school email 21120607@student.hcmus.edu.vn .
 
